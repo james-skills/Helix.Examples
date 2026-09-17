@@ -48,6 +48,15 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Sitecore.Annotations">
+      <HintPath>..\..\..\..\..\..\..\Sitecore 10.5.0 rev. 014188 (WDP XMSingle packages)\Sitecore 10.5.0 rev. 014188 (XM) (Cloud)_single.scwdp\Content\Website\bin\Sitecore.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Kernel">
+      <HintPath>..\..\..\..\..\..\..\Sitecore 10.5.0 rev. 014188 (WDP XMSingle packages)\Sitecore 10.5.0 rev. 014188 (XM) (Cloud)_single.scwdp\Content\Website\bin\Sitecore.Kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Mvc">
+      <HintPath>..\..\..\..\..\..\..\Sitecore 10.5.0 rev. 014188 (WDP XMSingle packages)\Sitecore 10.5.0 rev. 014188 (XM) (Cloud)_single.scwdp\Content\Website\bin\Sitecore.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
